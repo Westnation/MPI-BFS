@@ -1,5 +1,5 @@
 # MPI-BFS
-Parallel realisation of breadth-first search algorith using MPI (serial realisation included)
+Parallel realisation of breadth-first search algorithm using MPI (serial realisation included)
 
 Before start:
 - This code was written during my education and fully-filled with on the verge of fail decisions
