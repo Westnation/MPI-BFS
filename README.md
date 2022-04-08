@@ -4,8 +4,8 @@ Parallel realisation of breadth-first search algorithm using MPI (serial realisa
 Before start:
 - This code was written during my education and fully-filled with on the verge of fail decisions
 - Included graph generator is represented only for demonstration purposes and not meant to be good
-- Generated matrix and distance vectors can be saved in separate file for further comparison
-- Time comparison of serial and parallel realisations is included
+- Generated matrix and distance vectors can be saved in separate files for further comparison
+- Time comparison of serial and parallel realisation is included
 
 Usage:
 - Compile using any mpi-compatible compiler
